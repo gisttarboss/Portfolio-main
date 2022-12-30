@@ -1,0 +1,57 @@
+.dark {
+    --background-color: #101014;
+    --background-color-2: #23232b;
+    --text-color: white;
+    --hover-background-color: black;
+    --border-color: rgba(255, 255, 255, 0.368);
+    --dropdown-background-color: #23232b;
+    --nav-list-background-color: #00000063;
+    --dropdown-hover-background-color: #00000063;
+
+    .loading {
+        background-color: #23232b;
+    }
+
+    .eachProject {
+
+        &:hover {
+            background-color: #23232b;
+        }
+    }
+
+    .story {
+
+        .dropdown {
+            background-color: #23232b;
+
+            img {
+                filter: grayscale(50%);
+            }
+        }
+    }
+
+    .contact {
+
+        form {
+
+            input, textarea, button {
+                background-color: #23232b;
+            }
+        }
+    }
+
+    .skills {
+
+        h1 {
+            opacity: .05;
+        }
+
+        .skillImg {
+            
+            div:hover {
+                background-color: #23232b;
+                box-shadow: 0 0 0px 2px rgb(149, 149, 149);
+            }
+        }
+    }
+}

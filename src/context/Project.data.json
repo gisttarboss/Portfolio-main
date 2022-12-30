@@ -1,0 +1,43 @@
+[
+    
+    {
+        "id": 3,
+        "params": "ultra-nft",
+        "name": "Ultra NFT",
+        "stacks": ["HTML", "CSS", "JavaScript"],
+        "technology": "HTML",
+        "responsive": true,
+        "path": "/project/ultra-nft",
+        "description": "Dicover, collect, and sell extraordinary NFTs. NFT is the worlds first and largest NFT marketplace.",
+        "img": "https://i.ibb.co/cLHT2x5/Ultra-NFT.png",
+        "github": "https://github.com/AliReza1083/Ultra-NFT",
+        "website": "https://alireza1083.github.io/Ultra-NFT/"
+    },
+    {
+        "id": 4,
+        "params": "nike",
+        "name": "Nike",
+        "stacks": ["HTML", "CSS", "JavaScript"],
+        "technology": "HTML",
+        "responsive": true,
+        "path": "/project/nike",
+        "description": "I cloned Nike website (Mens' section)",
+        "img": "https://i.ibb.co/HxqH89s/Nike.png",
+        "github": "https://github.com/AliReza1083/Nike",
+        "website": "https://wonderful-eclair-f31dad.netlify.app/"
+    },
+   
+    {
+        "id": 6,
+        "params": "gpt-3",
+        "name": "GPT-3",
+        "stacks": ["HTML", "CSS", "JavaScript", "ReactJS"],
+        "technology": "ReactJS",
+        "responsive": true,
+        "path": "/project/gpt-3",
+        "description": "Let’s Build Something amazing with GPT-3 OpenAI",
+        "img": "https://i.ibb.co/HxqH89s/Nike.png",
+        "github": "https://github.com/AliReza1083/GPT-3",
+        "website": "https://polite-beijinho-a7aab7.netlify.app/"
+    }
+]
