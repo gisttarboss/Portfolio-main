@@ -56,11 +56,11 @@ const Project = () => {
                 </div> */}
                 <Skills />
                 <div className='projects'>
-                    
-                    <EachProject data={projectData[0]} image={UltraNFT} />
+                    <h1> working on adding more projects</h1>
+                   {/*   <EachProject data={projectData[0]} image={UltraNFT} /> */}
                     <EachProject data={projectData[1]} image={Nike} />
                    {/* <EachProject data={projectData[2]} image={Monster} /> */}
-                    <EachProject data={projectData[2]} image={Gpt3} />
+                  {/* <EachProject data={projectData[2]} image={Gpt3} /> */}
                 </div>
             </div>
         </div>
